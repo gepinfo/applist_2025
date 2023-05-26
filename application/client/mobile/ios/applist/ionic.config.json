@@ -1,0 +1,7 @@
+{
+  "name": "applist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
